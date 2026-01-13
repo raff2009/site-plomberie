@@ -1,3 +1,4 @@
+/* ===== RESET ET CONFIGURATION DE BASE ===== */
 * {
     margin: 0;
     padding: 0;
@@ -69,7 +70,7 @@ nav {
 /* ===== SECTION HERO (PAGE D'ACCUEIL) ===== */
 .hero {
     background: linear-gradient(rgba(30, 60, 114, 0.8), rgba(42, 82, 152, 0.8)), 
-                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600"><rect fill="%231e3c72" width="1200" height="600"/><path fill="%232a5298" d="M0 300 Q300 200 600 300 T1200 300 V600 H0 Z"/></svg>');
+                url('images/hero-plomberie.jpg');
     background-size: cover;
     background-position: center;
     color: white;
